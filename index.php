@@ -1,7 +1,7 @@
-<?php $company = "Mike's Landscapeee";
-$phone = "1(800) 232-2323";
-	$address1 = "100 give a fucks st";
-	$address2 = "i don' ca, 90210";
+<?php $company = "Radford Plumbing";
+$phone = "(931) 552-0646";
+	$address1 = "323 Partridge Ct";
+	$address2 = "Clarksville, TN, 37043";
 ?>
 <!DOCTYPE html>
 <html style="font-size: 16px;">
